@@ -9,10 +9,10 @@ To this list we can append data
 
 During API call
 
-![[Pasted image 20251018162155.png]]
+![](attachment/6b02e94423b0f2876414b0e183f550af.png)
 
 In such places where we have to access from the end  we use negative based indexing
-![[Pasted image 20251018162340.png]]
+![](attachment/9ed0b9d6fa5a6a781a2dfb9971abd6cf.png)
 
 
 ## Method of list
@@ -76,20 +76,20 @@ output:
 	
 ## Multi-dimensional List
 
-![[Pasted image 20251018163034.png]]
+![](attachment/29d7b266637de4eba58e561ff7583531.png)
 ### Features of List
 1. It can have duplicate values
 2. It is mutable in nature
 
-![[Pasted image 20251018163540.png]]
+![](attachment/d0bd088246e00647fd313794c3cb7a2a.png)
 Since we can see when we append one list inside other it comes as a list inside another list so we use **extend**
 
 # Other way is to concatenate or Adding 2 list
-![[Pasted image 20251018163654.png]]
+![](attachment/1dd1aed2867176e14a46a8ce3695c5bc.png)
 
 ## Using : to access a list
-![[Pasted image 20251018164010.png]]
-![[Pasted image 20251018164130.png]]
+![](attachment/8b0082883b7f3af566b71720fad79c72.png)
+![](attachment/66a7b60ab405938be3f1b1634fa85649.png)
 
 ### Reverse a list
 ```python

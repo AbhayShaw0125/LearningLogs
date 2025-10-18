@@ -4,12 +4,7 @@ Pasted image*.jpg
 Pasted image*.jpeg
 
 # 🚫 Ignore your working folder
-Python Learning/
-
-# ✅ Keep exported files
-!Files/
-Files/**
-
+PythonLearning/
 # 🚫 Ignore Obsidian’s system files (optional but recommended)
 .obsidian/
 .DS_Store
