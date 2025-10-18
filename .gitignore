@@ -1,1 +1,17 @@
-.obsidian
+# 🚫 Ignore all pasted images in root (matches root only)
+Pasted image*.png
+Pasted image*.jpg
+Pasted image*.jpeg
+
+# 🚫 Ignore your working folder
+Python Learning/
+
+# ✅ Keep exported files
+!Files/
+Files/**
+
+# 🚫 Ignore Obsidian’s system files (optional but recommended)
+.obsidian/
+.DS_Store
+Thumbs.db
+
