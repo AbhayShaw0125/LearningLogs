@@ -1,12 +1,20 @@
-# 🚫 Ignore all pasted images in root (matches root only)
-Pasted image*.png
-Pasted image*.jpg
-Pasted image*.jpeg
+# Ignore everything in the root
+/*
 
-# 🚫 Ignore your working folder
-PythonLearning/
-# 🚫 Ignore Obsidian’s system files (optional but recommended)
+# But do NOT ignore these files (in root)
+!.gitignore
+!README.md
+
+# Do NOT ignore this folder
+!Files/
+
+# Optionally, still ignore everything inside .obsidian or system junk
 .obsidian/
 .DS_Store
 Thumbs.db
+
+# Optional: ignore pasted images only in root
+/Pasted image*.png
+/Pasted image*.jpg
+/Pasted image*.jpeg
 
